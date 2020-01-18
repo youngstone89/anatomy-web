@@ -4,7 +4,9 @@
   "dependencies": {
     "vue": "^2.6.11"
   },
-  "main": "index.js",
+// To prevent accidental publication
+  "private": true,
+//  "main": "index.js",
   "devDependencies": {
     "webpack": "^4.41.5",
     "webpack-cli": "^3.3.10"
