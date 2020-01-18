@@ -5,7 +5,10 @@
     "vue": "^2.6.11"
   },
   "main": "index.js",
-  "devDependencies": {},
+  "devDependencies": {
+    "webpack": "^4.41.5",
+    "webpack-cli": "^3.3.10"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
